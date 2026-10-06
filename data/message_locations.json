@@ -1,0 +1,944 @@
+[
+  {
+    "message": 0,
+    "source": 0,
+    "sink": 155,
+    "information_edge": 7
+  },
+  {
+    "message": 1,
+    "source": 0,
+    "sink": 164,
+    "information_edge": 8
+  },
+  {
+    "message": 2,
+    "source": 0,
+    "sink": 173,
+    "information_edge": 9
+  },
+  {
+    "message": 3,
+    "source": 93,
+    "sink": 3,
+    "information_edge": 30
+  },
+  {
+    "message": 4,
+    "source": 101,
+    "sink": 3,
+    "information_edge": 31
+  },
+  {
+    "message": 5,
+    "source": 171,
+    "sink": 3,
+    "information_edge": 38
+  },
+  {
+    "message": 6,
+    "source": 181,
+    "sink": 3,
+    "information_edge": 39
+  },
+  {
+    "message": 7,
+    "source": 5,
+    "sink": 152,
+    "information_edge": 56
+  },
+  {
+    "message": 8,
+    "source": 5,
+    "sink": 163,
+    "information_edge": 57
+  },
+  {
+    "message": 9,
+    "source": 6,
+    "sink": 100,
+    "information_edge": 60
+  },
+  {
+    "message": 10,
+    "source": 6,
+    "sink": 165,
+    "information_edge": 68
+  },
+  {
+    "message": 11,
+    "source": 7,
+    "sink": 144,
+    "information_edge": 75
+  },
+  {
+    "message": 12,
+    "source": 7,
+    "sink": 178,
+    "information_edge": 79
+  },
+  {
+    "message": 13,
+    "source": 8,
+    "sink": 133,
+    "information_edge": 84
+  },
+  {
+    "message": 14,
+    "source": 8,
+    "sink": 166,
+    "information_edge": 88
+  },
+  {
+    "message": 15,
+    "source": 9,
+    "sink": 136,
+    "information_edge": 94
+  },
+  {
+    "message": 16,
+    "source": 157,
+    "sink": 11,
+    "information_edge": 117
+  },
+  {
+    "message": 17,
+    "source": 12,
+    "sink": 111,
+    "information_edge": 122
+  },
+  {
+    "message": 18,
+    "source": 12,
+    "sink": 156,
+    "information_edge": 127
+  },
+  {
+    "message": 19,
+    "source": 12,
+    "sink": 165,
+    "information_edge": 128
+  },
+  {
+    "message": 20,
+    "source": 14,
+    "sink": 108,
+    "information_edge": 141
+  },
+  {
+    "message": 21,
+    "source": 15,
+    "sink": 109,
+    "information_edge": 151
+  },
+  {
+    "message": 22,
+    "source": 15,
+    "sink": 136,
+    "information_edge": 154
+  },
+  {
+    "message": 23,
+    "source": 15,
+    "sink": 145,
+    "information_edge": 155
+  },
+  {
+    "message": 24,
+    "source": 15,
+    "sink": 163,
+    "information_edge": 157
+  },
+  {
+    "message": 25,
+    "source": 16,
+    "sink": 152,
+    "information_edge": 166
+  },
+  {
+    "message": 26,
+    "source": 16,
+    "sink": 161,
+    "information_edge": 167
+  },
+  {
+    "message": 27,
+    "source": 16,
+    "sink": 170,
+    "information_edge": 168
+  },
+  {
+    "message": 28,
+    "source": 17,
+    "sink": 150,
+    "information_edge": 176
+  },
+  {
+    "message": 29,
+    "source": 17,
+    "sink": 177,
+    "information_edge": 179
+  },
+  {
+    "message": 30,
+    "source": 124,
+    "sink": 18,
+    "information_edge": 183
+  },
+  {
+    "message": 31,
+    "source": 160,
+    "sink": 18,
+    "information_edge": 187
+  },
+  {
+    "message": 32,
+    "source": 119,
+    "sink": 20,
+    "information_edge": 203
+  },
+  {
+    "message": 33,
+    "source": 160,
+    "sink": 20,
+    "information_edge": 207
+  },
+  {
+    "message": 34,
+    "source": 168,
+    "sink": 20,
+    "information_edge": 208
+  },
+  {
+    "message": 35,
+    "source": 21,
+    "sink": 112,
+    "information_edge": 212
+  },
+  {
+    "message": 36,
+    "source": 21,
+    "sink": 142,
+    "information_edge": 215
+  },
+  {
+    "message": 37,
+    "source": 22,
+    "sink": 104,
+    "information_edge": 221
+  },
+  {
+    "message": 38,
+    "source": 22,
+    "sink": 133,
+    "information_edge": 224
+  },
+  {
+    "message": 39,
+    "source": 22,
+    "sink": 145,
+    "information_edge": 225
+  },
+  {
+    "message": 40,
+    "source": 23,
+    "sink": 108,
+    "information_edge": 231
+  },
+  {
+    "message": 41,
+    "source": 23,
+    "sink": 130,
+    "information_edge": 234
+  },
+  {
+    "message": 42,
+    "source": 23,
+    "sink": 150,
+    "information_edge": 236
+  },
+  {
+    "message": 43,
+    "source": 23,
+    "sink": 158,
+    "information_edge": 237
+  },
+  {
+    "message": 44,
+    "source": 23,
+    "sink": 165,
+    "information_edge": 238
+  },
+  {
+    "message": 45,
+    "source": 114,
+    "sink": 24,
+    "information_edge": 242
+  },
+  {
+    "message": 46,
+    "source": 119,
+    "sink": 24,
+    "information_edge": 243
+  },
+  {
+    "message": 47,
+    "source": 107,
+    "sink": 25,
+    "information_edge": 251
+  },
+  {
+    "message": 48,
+    "source": 119,
+    "sink": 25,
+    "information_edge": 253
+  },
+  {
+    "message": 49,
+    "source": 26,
+    "sink": 151,
+    "information_edge": 266
+  },
+  {
+    "message": 50,
+    "source": 28,
+    "sink": 111,
+    "information_edge": 282
+  },
+  {
+    "message": 51,
+    "source": 93,
+    "sink": 29,
+    "information_edge": 290
+  },
+  {
+    "message": 52,
+    "source": 30,
+    "sink": 94,
+    "information_edge": 300
+  },
+  {
+    "message": 53,
+    "source": 30,
+    "sink": 178,
+    "information_edge": 309
+  },
+  {
+    "message": 54,
+    "source": 31,
+    "sink": 166,
+    "information_edge": 318
+  },
+  {
+    "message": 55,
+    "source": 32,
+    "sink": 108,
+    "information_edge": 321
+  },
+  {
+    "message": 56,
+    "source": 32,
+    "sink": 131,
+    "information_edge": 324
+  },
+  {
+    "message": 57,
+    "source": 32,
+    "sink": 145,
+    "information_edge": 325
+  },
+  {
+    "message": 58,
+    "source": 96,
+    "sink": 33,
+    "information_edge": 330
+  },
+  {
+    "message": 59,
+    "source": 123,
+    "sink": 33,
+    "information_edge": 333
+  },
+  {
+    "message": 60,
+    "source": 171,
+    "sink": 33,
+    "information_edge": 338
+  },
+  {
+    "message": 61,
+    "source": 38,
+    "sink": 98,
+    "information_edge": 380
+  },
+  {
+    "message": 62,
+    "source": 38,
+    "sink": 156,
+    "information_edge": 387
+  },
+  {
+    "message": 63,
+    "source": 38,
+    "sink": 177,
+    "information_edge": 389
+  },
+  {
+    "message": 64,
+    "source": 39,
+    "sink": 152,
+    "information_edge": 396
+  },
+  {
+    "message": 65,
+    "source": 39,
+    "sink": 169,
+    "information_edge": 398
+  },
+  {
+    "message": 66,
+    "source": 40,
+    "sink": 94,
+    "information_edge": 400
+  },
+  {
+    "message": 67,
+    "source": 40,
+    "sink": 104,
+    "information_edge": 401
+  },
+  {
+    "message": 68,
+    "source": 40,
+    "sink": 161,
+    "information_edge": 407
+  },
+  {
+    "message": 69,
+    "source": 40,
+    "sink": 180,
+    "information_edge": 409
+  },
+  {
+    "message": 70,
+    "source": 41,
+    "sink": 108,
+    "information_edge": 411
+  },
+  {
+    "message": 71,
+    "source": 41,
+    "sink": 112,
+    "information_edge": 412
+  },
+  {
+    "message": 72,
+    "source": 41,
+    "sink": 170,
+    "information_edge": 418
+  },
+  {
+    "message": 73,
+    "source": 42,
+    "sink": 144,
+    "information_edge": 425
+  },
+  {
+    "message": 74,
+    "source": 42,
+    "sink": 151,
+    "information_edge": 426
+  },
+  {
+    "message": 75,
+    "source": 42,
+    "sink": 166,
+    "information_edge": 428
+  },
+  {
+    "message": 76,
+    "source": 43,
+    "sink": 178,
+    "information_edge": 439
+  },
+  {
+    "message": 77,
+    "source": 128,
+    "sink": 44,
+    "information_edge": 444
+  },
+  {
+    "message": 78,
+    "source": 128,
+    "sink": 45,
+    "information_edge": 454
+  },
+  {
+    "message": 79,
+    "source": 167,
+    "sink": 45,
+    "information_edge": 458
+  },
+  {
+    "message": 80,
+    "source": 167,
+    "sink": 46,
+    "information_edge": 464
+  },
+  {
+    "message": 81,
+    "source": 168,
+    "sink": 46,
+    "information_edge": 465
+  },
+  {
+    "message": 82,
+    "source": 171,
+    "sink": 46,
+    "information_edge": 468
+  },
+  {
+    "message": 83,
+    "source": 96,
+    "sink": 48,
+    "information_edge": 480
+  },
+  {
+    "message": 84,
+    "source": 102,
+    "sink": 48,
+    "information_edge": 481
+  },
+  {
+    "message": 85,
+    "source": 118,
+    "sink": 49,
+    "information_edge": 492
+  },
+  {
+    "message": 86,
+    "source": 116,
+    "sink": 50,
+    "information_edge": 502
+  },
+  {
+    "message": 87,
+    "source": 127,
+    "sink": 50,
+    "information_edge": 503
+  },
+  {
+    "message": 88,
+    "source": 132,
+    "sink": 50,
+    "information_edge": 504
+  },
+  {
+    "message": 89,
+    "source": 107,
+    "sink": 52,
+    "information_edge": 521
+  },
+  {
+    "message": 90,
+    "source": 114,
+    "sink": 52,
+    "information_edge": 522
+  },
+  {
+    "message": 91,
+    "source": 160,
+    "sink": 52,
+    "information_edge": 527
+  },
+  {
+    "message": 92,
+    "source": 179,
+    "sink": 53,
+    "information_edge": 539
+  },
+  {
+    "message": 93,
+    "source": 54,
+    "sink": 106,
+    "information_edge": 541
+  },
+  {
+    "message": 94,
+    "source": 54,
+    "sink": 136,
+    "information_edge": 544
+  },
+  {
+    "message": 95,
+    "source": 54,
+    "sink": 164,
+    "information_edge": 548
+  },
+  {
+    "message": 96,
+    "source": 174,
+    "sink": 55,
+    "information_edge": 552
+  },
+  {
+    "message": 97,
+    "source": 179,
+    "sink": 55,
+    "information_edge": 557
+  },
+  {
+    "message": 98,
+    "source": 181,
+    "sink": 55,
+    "information_edge": 559
+  },
+  {
+    "message": 99,
+    "source": 56,
+    "sink": 173,
+    "information_edge": 569
+  },
+  {
+    "message": 100,
+    "source": 57,
+    "sink": 173,
+    "information_edge": 579
+  },
+  {
+    "message": 101,
+    "source": 126,
+    "sink": 58,
+    "information_edge": 583
+  },
+  {
+    "message": 102,
+    "source": 143,
+    "sink": 58,
+    "information_edge": 585
+  },
+  {
+    "message": 103,
+    "source": 168,
+    "sink": 58,
+    "information_edge": 588
+  },
+  {
+    "message": 104,
+    "source": 114,
+    "sink": 59,
+    "information_edge": 592
+  },
+  {
+    "message": 105,
+    "source": 120,
+    "sink": 59,
+    "information_edge": 593
+  },
+  {
+    "message": 106,
+    "source": 167,
+    "sink": 59,
+    "information_edge": 598
+  },
+  {
+    "message": 107,
+    "source": 117,
+    "sink": 60,
+    "information_edge": 602
+  },
+  {
+    "message": 108,
+    "source": 157,
+    "sink": 60,
+    "information_edge": 607
+  },
+  {
+    "message": 109,
+    "source": 61,
+    "sink": 111,
+    "information_edge": 612
+  },
+  {
+    "message": 110,
+    "source": 61,
+    "sink": 173,
+    "information_edge": 619
+  },
+  {
+    "message": 111,
+    "source": 93,
+    "sink": 62,
+    "information_edge": 620
+  },
+  {
+    "message": 112,
+    "source": 118,
+    "sink": 63,
+    "information_edge": 632
+  },
+  {
+    "message": 113,
+    "source": 132,
+    "sink": 63,
+    "information_edge": 634
+  },
+  {
+    "message": 114,
+    "source": 157,
+    "sink": 64,
+    "information_edge": 643
+  },
+  {
+    "message": 115,
+    "source": 160,
+    "sink": 64,
+    "information_edge": 646
+  },
+  {
+    "message": 116,
+    "source": 93,
+    "sink": 67,
+    "information_edge": 670
+  },
+  {
+    "message": 117,
+    "source": 114,
+    "sink": 67,
+    "information_edge": 672
+  },
+  {
+    "message": 118,
+    "source": 124,
+    "sink": 67,
+    "information_edge": 673
+  },
+  {
+    "message": 119,
+    "source": 113,
+    "sink": 68,
+    "information_edge": 682
+  },
+  {
+    "message": 120,
+    "source": 138,
+    "sink": 68,
+    "information_edge": 685
+  },
+  {
+    "message": 121,
+    "source": 172,
+    "sink": 68,
+    "information_edge": 688
+  },
+  {
+    "message": 122,
+    "source": 132,
+    "sink": 69,
+    "information_edge": 694
+  },
+  {
+    "message": 123,
+    "source": 143,
+    "sink": 69,
+    "information_edge": 695
+  },
+  {
+    "message": 124,
+    "source": 107,
+    "sink": 70,
+    "information_edge": 701
+  },
+  {
+    "message": 125,
+    "source": 118,
+    "sink": 70,
+    "information_edge": 702
+  },
+  {
+    "message": 126,
+    "source": 126,
+    "sink": 70,
+    "information_edge": 703
+  },
+  {
+    "message": 127,
+    "source": 174,
+    "sink": 70,
+    "information_edge": 709
+  },
+  {
+    "message": 128,
+    "source": 171,
+    "sink": 71,
+    "information_edge": 718
+  },
+  {
+    "message": 129,
+    "source": 143,
+    "sink": 73,
+    "information_edge": 737
+  },
+  {
+    "message": 130,
+    "source": 74,
+    "sink": 151,
+    "information_edge": 746
+  },
+  {
+    "message": 131,
+    "source": 75,
+    "sink": 133,
+    "information_edge": 754
+  },
+  {
+    "message": 132,
+    "source": 75,
+    "sink": 161,
+    "information_edge": 757
+  },
+  {
+    "message": 133,
+    "source": 75,
+    "sink": 175,
+    "information_edge": 759
+  },
+  {
+    "message": 134,
+    "source": 123,
+    "sink": 77,
+    "information_edge": 773
+  },
+  {
+    "message": 135,
+    "source": 79,
+    "sink": 100,
+    "information_edge": 790
+  },
+  {
+    "message": 136,
+    "source": 146,
+    "sink": 82,
+    "information_edge": 821
+  },
+  {
+    "message": 137,
+    "source": 83,
+    "sink": 145,
+    "information_edge": 835
+  },
+  {
+    "message": 138,
+    "source": 83,
+    "sink": 161,
+    "information_edge": 837
+  },
+  {
+    "message": 139,
+    "source": 83,
+    "sink": 165,
+    "information_edge": 838
+  },
+  {
+    "message": 140,
+    "source": 83,
+    "sink": 178,
+    "information_edge": 839
+  },
+  {
+    "message": 141,
+    "source": 102,
+    "sink": 84,
+    "information_edge": 841
+  },
+  {
+    "message": 142,
+    "source": 116,
+    "sink": 84,
+    "information_edge": 842
+  },
+  {
+    "message": 143,
+    "source": 124,
+    "sink": 84,
+    "information_edge": 843
+  },
+  {
+    "message": 144,
+    "source": 146,
+    "sink": 84,
+    "information_edge": 846
+  },
+  {
+    "message": 145,
+    "source": 99,
+    "sink": 85,
+    "information_edge": 850
+  },
+  {
+    "message": 146,
+    "source": 127,
+    "sink": 85,
+    "information_edge": 853
+  },
+  {
+    "message": 147,
+    "source": 146,
+    "sink": 85,
+    "information_edge": 856
+  },
+  {
+    "message": 148,
+    "source": 157,
+    "sink": 85,
+    "information_edge": 857
+  },
+  {
+    "message": 149,
+    "source": 88,
+    "sink": 112,
+    "information_edge": 882
+  },
+  {
+    "message": 150,
+    "source": 88,
+    "sink": 133,
+    "information_edge": 884
+  },
+  {
+    "message": 151,
+    "source": 88,
+    "sink": 144,
+    "information_edge": 885
+  },
+  {
+    "message": 152,
+    "source": 88,
+    "sink": 156,
+    "information_edge": 887
+  },
+  {
+    "message": 153,
+    "source": 90,
+    "sink": 94,
+    "information_edge": 900
+  },
+  {
+    "message": 154,
+    "source": 90,
+    "sink": 106,
+    "information_edge": 901
+  },
+  {
+    "message": 155,
+    "source": 90,
+    "sink": 130,
+    "information_edge": 904
+  },
+  {
+    "message": 156,
+    "source": 90,
+    "sink": 163,
+    "information_edge": 907
+  }
+]

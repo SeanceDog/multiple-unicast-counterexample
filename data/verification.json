@@ -1,0 +1,13 @@
+{
+  "vertices": 182,
+  "edges": 735,
+  "messages": 157,
+  "transmissions": 735,
+  "distance_histogram": {
+    "5": 157
+  },
+  "routing": 785,
+  "saving": 50,
+  "all_decoders_verified": true,
+  "all_encoders_causal": true
+}

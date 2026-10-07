@@ -192,5 +192,4 @@ dictionary keys. Every call allocates fresh communication state.
 | `examples/` | Inputs in flat and source-grouped formats |
 | `tests/` | Runtime and verifier tests |
 | `.github/workflows/verify.yml` | Automated verification on GitHub |
-| `SHA256SUMS` | SHA-256 hashes of the distributed files |
 

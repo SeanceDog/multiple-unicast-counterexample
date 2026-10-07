@@ -194,10 +194,3 @@ dictionary keys. Every call allocates fresh communication state.
 | `.github/workflows/verify.yml` | Automated verification on GitHub |
 | `SHA256SUMS` | SHA-256 hashes of the distributed files |
 
-The archive is ready to become a repository: extract it and upload the **contents
-of this folder**, including `.github` and `.gitignore`, to the desired GitHub
-repository. It includes no Git history or other files from the research workspace.
-
-The construction here is linear over $\mathbb F_9$. No claim of
-$\mathbb F_2$-linearity or of satisfying the original binary parity hypotheses
-is made by this repository.
